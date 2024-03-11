@@ -16,6 +16,10 @@
 A simple tool to help programmers save time and automate their .MD files creation
 
 ## Usage
+
+https://github.com/Wormhole616/readMe/assets/144727575/7fb901c3-2880-40e2-9627-033fe55d8c1d
+
+
 simply run it in the command line as "npm start" and type away!
 
 ## Contribution 
