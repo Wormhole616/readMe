@@ -84,3 +84,4 @@ function runQuery() {
 }
 
 runQuery()
+// added all necessary questions to the prompt
