@@ -18,6 +18,8 @@ A simple tool to help programmers save time and automate their .MD files creatio
 ## Usage
 
 https://github.com/Wormhole616/readMe/assets/144727575/7fb901c3-2880-40e2-9627-033fe55d8c1d
+![Screenshot 2024-03-11 144111](https://github.com/Wormhole616/readMe/assets/144727575/0fcdc1f2-9826-44c6-a169-bbcd4a823b4b)
+
 
 
 simply run it in the command line as "npm start" and type away!
